@@ -1,0 +1,39 @@
+{
+  "name": "fsorg",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fs",
+    "fsorg",
+    "file System",
+    "tree",
+    "orgc",
+    "orgx",
+    "orgs",
+    "tree"
+  ],
+  "author": "Sandeep Mahapatra <sandeepmahapatra97777@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "readline-sync": "^1.4.10",
+    "windows-shortcuts": "^0.1.6"
+  },
+  "type": "module",
+  "bin": {
+    "fs": "main.js"
+  },
+  "devDependencies": {},
+  "description": "File System Organization commands using NodeJS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandeepMahapatra/fsorg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SandeepMahapatra/fsorg/issues"
+  },
+  "homepage": "https://github.com/SandeepMahapatra/fsorg#readme"
+}
